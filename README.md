@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**fr13nd-x/fr13nd-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
+</head>
+<body>
+	<h1>Howdy.. am fr13ndx ||
+	  <span class="typer" id="main" data-words="Cyber Security Specialist,C and Python Programmer,Ethical Hacker" data-delay="100" data-deleteDelay="1000"></span>
+	  <span class="cursor" data-owner="main"></span>
+	</h1>
+<p>(RTFM) => Read The F**king Manual</p>
+</body>
+</html>

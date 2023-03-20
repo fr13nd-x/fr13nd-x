@@ -12,5 +12,6 @@
 	  <span class="cursor" data-owner="main"></span>
 	</h1>
 <p>(RTFM) => Read The F**king Manual</p>
+	<script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
 </body>
 </html>

@@ -1,4 +1,5 @@
-![terminal](https://user-images.githubusercontent.com/58890748/226443226-36d40962-bd4a-4fb8-9923-4516809b2c15.png)
+
+background: url(![terminal](https://user-images.githubusercontent.com/58890748/226445751-da41a94f-9636-47bf-8b77-c082b947ffb6.png)) center center cover no-repeat fixed;
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3999&pause=1000&color=E91033&vCenter=true&repeat=false&width=501&lines=Howdy...+I+am+fr13ndx" alt="Typing SVG" /></a>
 

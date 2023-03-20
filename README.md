@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-	<script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
-</head>
-<body>
-	<h1>Howdy.. am fr13ndx ||
-	  <span class="typer" id="main" data-words="Cyber Security Specialist,C and Python Programmer,Ethical Hacker" data-delay="100" data-deleteDelay="1000"></span>
-	  <span class="cursor" data-owner="main"></span>
-	</h1>
-<p>(RTFM) => Read The F**king Manual</p>
-	<script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
-</body>
-</html>
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3999&pause=1000&color=2CF73A&width=435&lines=Cyber+Security+Specialist;C+and+Python+Programmer;Ethical+Hacker)](https://git.io/typing-svg)

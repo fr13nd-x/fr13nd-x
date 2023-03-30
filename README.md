@@ -1,5 +1,5 @@
 <!-- CSS STYLING-->
-<link rel="stylesheet" href="path/to/your/css/file.css">
+<link rel="stylesheet" href="https://github.com/fr13nd-x/style/blob/main/style.css">
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72313&repeat=false&width=435&lines=ssh+root%40github%2Ffr13nd-x;Howdy...+I+am+fr13ndx" alt="Typing SVG" /></a>

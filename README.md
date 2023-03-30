@@ -15,3 +15,6 @@
 <p><a href="https://ko-fi.com/fr13ndx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fr13ndx" /></a></p><br><br>
 
 
+![fr13ndx GitHub stats](https://github-readme-stats.vercel.app/api?username=fr13nd-x&show_icons=true&theme=radical)
+
+

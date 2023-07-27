@@ -11,7 +11,6 @@
     <td style="text-align:center;"><a href="https://www.linkedin.com/in/mosesgichia/"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
       <a href="https://twitter.com/fr13ndx1"> <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
     </td>
-    <td> </td>
     <td><p><a href="https://ko-fi.com/fr13ndx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fr13ndx" /></a></p>
     </td>
   </tr>

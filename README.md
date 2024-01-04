@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://github.com/fr13nd-x/style/blob/main/style.css">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&color=0BE90C&background=000000FB&vCenter=true&multiline=true&width=1000&height=110&lines=%24+Cyber+Security+Specialist;%24+C+and+Python+Programmer;%24+Ethical+Hacker" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&color=0BE90C&background=000000FB&vCenter=true&multiline=true&width=1000&height=110&lines=%24+Cyber+Security+Analyst;%24+C+and+Python+Programmer;%24+Ethical+Hacker" alt="Typing SVG" /></a>
 
 
 

@@ -1,22 +1,6 @@
 # 💫 About Me:
-Full-Stack Development: Crafting multi-tenant SaaS platforms and production-ready systems using modern web technologies.<br><br>Systems Architecture: Designing database schemas and server environments that prioritize data integrity and long-term stability.<br><br>Cybersecurity: Analyzing vulnerabilities and implementing security best practices to harden applications against modern threats.<br><br>Desktop & Hardware Integration: Building cross-platform desktop applications that interact seamlessly with hardware peripherals.
-### 🚀 I am currently...
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%7C+CYBER+SECURITY+ANALYST." alt="Typing Title" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=200&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%3E+Full-Stack+Development:+Crafting+multi-tenant+SaaS+platforms+and+production-ready+systems.;%3E+Systems+Architecture:+Designing+database+schemas+and+server+environments.;%3E+Cybersecurity:+Analyzing+vulnerabilities+and+implementing+security+best+practices.;%3E+Desktop+%26+Hardware+Integration:+Building+cross-platform+desktop+applications." alt="Typing Skills" />
-</p>
-
-<div align="center">
-  
-  ![Matrix](https://img.shields.io/badge/MODE-MATRIX-000000?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=000000)
-  ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000)
-  ![Security](https://img.shields.io/badge/SECURITY-HARDENED-39FF14?style=for-the-badge&labelColor=000000)
-  
-</div>
+### 🚀 I am currently a...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=40F731&background=000000F3&multiline=true&width=1000&height=200&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%7C+CYBER+SECURITY+ANALYST.;%E3%85%A4;%3E+Cybersecurity+;%3E+Desktop+%26+Hardware+Integration;%3E+Full-Stack+Development;%3E+Systems+Architecture)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mosesgichia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fr13ndx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morsewalla254@gmail.com) 

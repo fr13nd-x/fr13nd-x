@@ -1,10 +1,53 @@
 # 💫 About Me:
 Full-Stack Development: Crafting multi-tenant SaaS platforms and production-ready systems using modern web technologies.<br><br>Systems Architecture: Designing database schemas and server environments that prioritize data integrity and long-term stability.<br><br>Cybersecurity: Analyzing vulnerabilities and implementing security best practices to harden applications against modern threats.<br><br>Desktop & Hardware Integration: Building cross-platform desktop applications that interact seamlessly with hardware peripherals.
 ### 🚀 I am currently...
+
+```svg
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=250&lines=SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%7C+CYBER+SECURITY+ANALYST;---------------------------------------------------------;%E2%9C%93+Building+multi-tenant+SaaS+platforms;%E2%9C%93+Designing+secure+systems+architecture;%E2%9C%93+Hardening+apps+against+modern+threats;%E2%9C%93+Integrating+desktop+apps+with+hardware" alt="Typing SVG" />
-  </a>
+  <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" style="background:#000;">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;display=swap');
+      text { font-family: 'Fira Code', monospace; }
+      .cursor { animation: blink 1s infinite; }
+      @keyframes blink { 0%,50% { opacity:1; } 51%,100% { opacity:0; } }
+    </style>
+    
+    <!-- Background glow -->
+    <rect width="100%" height="100%" fill="#000"/>
+    
+    <!-- Title -->
+    <text x="400" y="40" font-size="18" fill="#00FF41" font-weight="600" text-anchor="middle">
+      <animate attributeName="opacity" values="0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
+      SOFTWARE ENGINEER | FULL-STACK DEVELOPER | CYBER SECURITY ANALYST.
+    </text>
+    
+    <!-- Line 1 -->
+    <text x="50" y="100" font-size="14" fill="#00FF41">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
+      > Full-Stack Development: Crafting multi-tenant SaaS platforms and production-ready systems.
+    </text>
+    
+    <!-- Line 2 -->
+    <text x="50" y="140" font-size="14" fill="#39FF14">
+      <animate attributeName="opacity" values="0;0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
+      > Systems Architecture: Designing database schemas and server environments.
+    </text>
+    
+    <!-- Line 3 -->
+    <text x="50" y="180" font-size="14" fill="#00FF41">
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
+      > Cybersecurity: Analyzing vulnerabilities and implementing security best practices.
+    </text>
+    
+    <!-- Line 4 -->
+    <text x="50" y="220" font-size="14" fill="#39FF14">
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
+      > Desktop &amp; Hardware Integration: Building cross-platform desktop applications.
+    </text>
+    
+    <!-- Cursor -->
+    <rect x="50" y="230" width="10" height="16" fill="#00FF41" class="cursor"/>
+  </svg>
 </p>
 
 ## 🌐 Socials:

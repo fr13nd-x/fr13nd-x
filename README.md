@@ -1,9 +1,11 @@
 # 💫 About Me:
 Full-Stack Development: Crafting multi-tenant SaaS platforms and production-ready systems using modern web technologies.<br><br>Systems Architecture: Designing database schemas and server environments that prioritize data integrity and long-term stability.<br><br>Cybersecurity: Analyzing vulnerabilities and implementing security best practices to harden applications against modern threats.<br><br>Desktop & Hardware Integration: Building cross-platform desktop applications that interact seamlessly with hardware peripherals.
 ### 🚀 I am currently...
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=false&vCenter=false&width=800&lines=Crafting+multi-tenant+SaaS+and+production-ready+systems;Architecting+secure+databases+focused+on+data+integrity;Hardening+applications+against+modern+security+threats;Integrating+cross-platform+desktop+apps+with+hardware" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=850&height=120&lines=SOFTWARE+ENGINEER;FULL-STACK+WEB+DEVELOPER;CYBER+SECURITY+ANALYST;----------------------------------------;Crafting+multi-tenant+SaaS+platforms;Designing+secure+systems+architecture;Hardening+apps+against+modern+threats;Integrating+desktop+apps+with+hardware" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mosesgichia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fr13ndx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morsewalla254@gmail.com) 

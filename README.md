@@ -1,8 +1,6 @@
 # 💫 About Me:
 Full-Stack Development: Crafting multi-tenant SaaS platforms and production-ready systems using modern web technologies.<br><br>Systems Architecture: Designing database schemas and server environments that prioritize data integrity and long-term stability.<br><br>Cybersecurity: Analyzing vulnerabilities and implementing security best practices to harden applications against modern threats.<br><br>Desktop & Hardware Integration: Building cross-platform desktop applications that interact seamlessly with hardware peripherals.
 ### 🚀 I am currently...
-
-```svg
 <p align="center">
   <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" style="background:#000;">
     <style>

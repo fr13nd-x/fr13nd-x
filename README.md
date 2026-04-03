@@ -3,7 +3,7 @@ Full-Stack Development: Crafting multi-tenant SaaS platforms and production-read
 ### 🚀 I am currently...
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=850&height=120&lines=SOFTWARE+ENGINEER;FULL-STACK+WEB+DEVELOPER;CYBER+SECURITY+ANALYST;----------------------------------------;Crafting+multi-tenant+SaaS+platforms;Designing+secure+systems+architecture;Hardening+apps+against+modern+threats;Integrating+desktop+apps+with+hardware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=250&lines=SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%7C+CYBER+SECURITY+ANALYST;---------------------------------------------------------;%E2%9C%93+Building+multi-tenant+SaaS+platforms;%E2%9C%93+Designing+secure+systems+architecture;%E2%9C%93+Hardening+apps+against+modern+threats;%E2%9C%93+Integrating+desktop+apps+with+hardware" alt="Typing SVG" />
   </a>
 </p>
 

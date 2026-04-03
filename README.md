@@ -2,51 +2,31 @@
 Full-Stack Development: Crafting multi-tenant SaaS platforms and production-ready systems using modern web technologies.<br><br>Systems Architecture: Designing database schemas and server environments that prioritize data integrity and long-term stability.<br><br>Cybersecurity: Analyzing vulnerabilities and implementing security best practices to harden applications against modern threats.<br><br>Desktop & Hardware Integration: Building cross-platform desktop applications that interact seamlessly with hardware peripherals.
 ### 🚀 I am currently...
 <p align="center">
-  <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" style="background:#000;">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;display=swap');
-      text { font-family: 'Fira Code', monospace; }
-      .cursor { animation: blink 1s infinite; }
-      @keyframes blink { 0%,50% { opacity:1; } 51%,100% { opacity:0; } }
-    </style>
-    
-    <!-- Background glow -->
-    <rect width="100%" height="100%" fill="#000"/>
-    
-    <!-- Title -->
-    <text x="400" y="40" font-size="18" fill="#00FF41" font-weight="600" text-anchor="middle">
-      <animate attributeName="opacity" values="0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
-      SOFTWARE ENGINEER | FULL-STACK DEVELOPER | CYBER SECURITY ANALYST.
-    </text>
-    
-    <!-- Line 1 -->
-    <text x="50" y="100" font-size="14" fill="#00FF41">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
-      > Full-Stack Development: Crafting multi-tenant SaaS platforms and production-ready systems.
-    </text>
-    
-    <!-- Line 2 -->
-    <text x="50" y="140" font-size="14" fill="#39FF14">
-      <animate attributeName="opacity" values="0;0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
-      > Systems Architecture: Designing database schemas and server environments.
-    </text>
-    
-    <!-- Line 3 -->
-    <text x="50" y="180" font-size="14" fill="#00FF41">
-      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
-      > Cybersecurity: Analyzing vulnerabilities and implementing security best practices.
-    </text>
-    
-    <!-- Line 4 -->
-    <text x="50" y="220" font-size="14" fill="#39FF14">
-      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0;0" dur="8s" repeatCount="indefinite"/>
-      > Desktop &amp; Hardware Integration: Building cross-platform desktop applications.
-    </text>
-    
-    <!-- Cursor -->
-    <rect x="50" y="230" width="10" height="16" fill="#00FF41" class="cursor"/>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%7C+CYBER+SECURITY+ANALYST." alt="Title" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=300&color=00FF41&background=000000&center=true&vCenter=true&width=900&lines=%3E+Full-Stack+Development:+Crafting+multi-tenant+SaaS+platforms+and+production-ready+systems+using+modern+web+technologies." alt="Line 1" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=300&color=39FF14&background=000000&center=true&vCenter=true&width=900&lines=%3E+Systems+Architecture:+Designing+database+schemas+and+server+environments+that+prioritize+data+integrity." alt="Line 2" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=300&color=00FF41&background=000000&center=true&vCenter=true&width=900&lines=%3E+Cybersecurity:+Analyzing+vulnerabilities+and+implementing+security+best+practices+to+harden+applications." alt="Line 3" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=300&color=39FF14&background=000000&center=true&vCenter=true&width=900&lines=%3E+Desktop+%26+Hardware+Integration:+Building+cross-platform+desktop+applications+that+interact+with+hardware." alt="Line 4" />
+</p>
+
+<div align="center">
+  
+  ![Matrix](https://img.shields.io/badge/MODE-MATRIX-000000?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=000000)
+  ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000)
+  
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mosesgichia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fr13ndx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morsewalla254@gmail.com) 
